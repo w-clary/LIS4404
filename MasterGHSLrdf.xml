@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xml:lang="en"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dctype="http://purl.org/dc/dcmitype/"
+    xmlns:dcterms="http://purl.org/dc/terms/"   >
+    
+    <!--Record 1-->
+    <rdf:Description rdf:about="https://www.genericsmallhslibrary.edu/lib/collection/books/18829/">
+        <dcterms:title>To Reign in Hell</dcterms:title>
+        <dcterms:creator rdfs:label="Brust, Steven, 1955-" rdf:resource="https://lccn.loc.gov/n84076962"/>
+        <dcterms:date>1984</dcterms:date>
+        <dcterms:publisher rdfs:label="Orb Books" rdf:resource="http://id.loc.gov/entities/providers/5581df191ab664857971c333659a7cd9/" />
+        <dcterms:language rdfs:label="eng" rdf:resource="https://www.loc.gov/standards/iso639-2/"/>
+        <dcterms:subject rdfs:label="Fiction" rdf:resource="http://id.loc.gov/authorities/subjects/sh85048050" />
+        <dcterms:subject rdfs:label="Fantasy" rdf:resource="http://id.loc.gov/authorities/subjects/sh85047157" />
+        <dcterms:subject rdfs:label="Science Fiction" rdf:resource="http://id.loc.gov/authorities/subjects/sh85118629" />
+        <dcterms:identifier rdfs:label="978-0441814961" rdf:resource="https://isbndb.com/book/9780441814961" />
+        <dcterms:rights rdfs:label="COPYRIGHT NOT EVALUATED" rdf:resource="http://rightsstatements.org/vocab/CNE/1.0/" />
+        <dcterms:format rdfs:label="text" rdf:resource="http://purl.org/dc/dcmitype/text" />
+        <dcterms:hasVersion>1st</dcterms:hasVersion>
+        <dcterms:audience>Young Adult</dcterms:audience>
+        <dcterms:description>This novel delves into Satan's rebellion, and includes an introduction by Roger Zelazny.</dcterms:description>   
+        <dcterms:subject>Satan, Disobedience</dcterms:subject>   
+    </rdf:Description>
+    <rdf:Description rdf:about= "https://www.genericsmallhslibrary.edu/lib/internal/books/18829/">
+        <rdfs:subClassOf rdf:resource="https://www.genericsmallhslibrary.edu/lib/collection/books/18829/" />
+        <dcterms:modified>2003-05</dcterms:modified>
+        <dcterms:isPartOf rdfs:label="Internal" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/books/" />
+        <dcterms:isPartOf rdfs:label="Codependence and Violence" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/courseres/eng/" />
+        <dcterms:isPartOf rdfs:label="English Dept" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/dept/eng/" />
+        <dcterms:description>Contains blasphemy and adult themes</dcterms:description>
+        <dcterms:extent>288 pages</dcterms:extent>
+        <dcterms:extent>21 cm</dcterms:extent>
+    </rdf:Description>
+    
+    <!--Record 2-->
+    <rdf:Description rdf:about="https://www.genericsmallhslibrary.edu/lib/collection/books/18830/">
+        <dcterms:title>Slave Girl of Gor (Gor, Book 11)</dcterms:title>
+        <dcterms:creator rdfs:label="Norman, John 1931-" rdf:resource="https://lccn.loc.gov/n84002354"/>
+        <dcterms:date>1977</dcterms:date>
+        <dcterms:publisher rdfs:label="Daw Books" rdf:resource="https://lccn.loc.gov/n86011843" />
+        <dcterms:language rdfs:label="eng" rdf:resource="https://www.loc.gov/standards/iso639-2/"/>
+        <dcterms:subject rdfs:label="Fiction" rdf:resource="http://id.loc.gov/authorities/subjects/sh85048050" />
+        <dcterms:subject rdfs:label="Fantasy" rdf:resource="http://id.loc.gov/authorities/subjects/sh85047157" />
+        <dcterms:subject rdfs:label="Science Fiction" rdf:resource="http://id.loc.gov/authorities/subjects/sh85118629" />
+        <dcterms:identifier rdfs:label="978-0879976798" rdf:resource="https://isbndb.com/book/9780879976798" />
+        <dcterms:rights rdfs:label="COPYRIGHT ©, 1977 BY JOHN NORMAN." rdf:resource="http://rightsstatements.org/vocab/InC/1.0/" />
+        <dcterms:format rdfs:label="text" rdf:resource="http://purl.org/dc/dcmitype/text" />
+        <dcterms:hasVersion>1st edition</dcterms:hasVersion>
+        <dcterms:audience>Adult</dcterms:audience>
+        <dcterms:description> Tarl Cabot had resumed his allegiance to the Priest-Kings, the non-human but benevolent rulers of Earth's orbital twin planet, Gor. And accordingly Tarl knew that the battle for the possession of the planet was under way- the Kurii, the beastlike invaders, had made their plans.
+            There was a girl, once Judy Thornton of Earth, found in the wilderness of Gor. Captured, as such lovely strangers were on that ruthless world, she was to undergo the training that would make her a slave girl of great value. But unknown to her captors was the fact tha she was a tool of the Kurii, that she carreid a programmed message that imperilled the future of Gor. It was for possession of her mind and body that Priest-King and Kur-monster battled, while aplanet went its way unsuspecting that its very fate was also locked within the slave collar that graced her neck.
+        </dcterms:description>   
+        <dcterms:subject>Primitive; heroic fantasy; </dcterms:subject>   
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.genericsmallhslibrary.edu/lib/internal/books/18830/">
+        <rdfs:subClassOf rdf:resource="https://www.genericsmallhslibrary.edu/lib/collection/books/18830/"/>
+        <dcterms:modified>2003-07</dcterms:modified>
+        <dcterms:isPartOf rdfs:label="Internal" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/books/" />
+        <dcterms:isPartOf rdfs:label="The Male Gaze in Fantasy" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/courseres/eng/" />
+        <dcterms:isPartOf rdfs:label="English Dept" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/dept/eng/" />
+        <dcterms:description>Violence; sex; slavery; misogyny; </dcterms:description>
+        <dcterms:extent>446 pages</dcterms:extent> 
+        <dcterms:extent>7in x 4.5in</dcterms:extent>    
+    </rdf:Description>
+    
+    <!--Record 3-->
+    <rdf:Description rdf:about="https://www.genericsmallhslibrary.edu/lib/collection/books/18831/">
+        <dcterms:title>Beasts of Gor (Gor, Book 12)</dcterms:title>
+        <dcterms:creator rdfs:label="Norman, John 1931-" rdf:resource="https://lccn.loc.gov/n84002354"/>
+        <dcterms:date>1978</dcterms:date>
+        <dcterms:publisher rdfs:label="Daw Books" rdf:resource="https://lccn.loc.gov/n86011843" />
+        <dcterms:language rdfs:label="eng" rdf:resource="https://www.loc.gov/standards/iso639-2/"/>
+        <dcterms:subject rdfs:label="Fiction" rdf:resource="http://id.loc.gov/authorities/subjects/sh85048050" />
+        <dcterms:subject rdfs:label="Fantasy" rdf:resource="http://id.loc.gov/authorities/subjects/sh85047157" />
+        <dcterms:subject rdfs:label="Science Fiction" rdf:resource="http://id.loc.gov/authorities/subjects/sh85118629" />
+        <dcterms:identifier rdfs:label="978-0879974718" rdf:resource="https://isbndb.com/book/9780879974718" />
+        <dcterms:rights rdfs:label="COPYRIGHT ©, 1978 BY JOHN NORMAN." rdf:resource="http://rightsstatements.org/vocab/InC/1.0/" />
+        <dcterms:format rdfs:label="text" rdf:resource="http://purl.org/dc/dcmitype/text" />
+        <dcterms:hasVersion>1st</dcterms:hasVersion>
+        <dcterms:audience>Adult</dcterms:audience>
+        <dcterms:description>
+            On Gor, the other world in Earth's orbit, the term beast can mean any of three things. 
+            First, there are the Kurii, the monsters from space who are about to invade that world.
+            Second, there are the Gorean warriors, men whose fighting ferocity is incomparable.
+            Third, there are the slave girls, who are both beasts of burden and objects of desire.
+            All three kinds of beasts come into action in this thrilling novel as the Kurii establish their first beachhead on Gor's polar cap. Here is a John Norman epic that takes Tarl Cabot from the canals of Port Kar to the taverns of Lydius, the tents of the Sardar Fair, and to a grand climax among the red hunters of the Arctic ice pack.
+        </dcterms:description>   
+        <dcterms:subject>Primitive; heroic fantasy; </dcterms:subject>   
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.genericsmallhslibrary.edu/lib/internal/books/18831/">
+        <rdfs:subClassOf rdf:resource="https://www.genericsmallhslibrary.edu/lib/collection/books/18831/"/>
+        <dcterms:modified>2001-07</dcterms:modified>
+        <dcterms:isPartOf rdfs:label="Internal" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/books/" />
+        <dcterms:isPartOf rdfs:label="The Male Gaze in Fantasy" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/courseres/eng/" />
+        <dcterms:isPartOf rdfs:label="English Dept" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/dept/eng/" />
+        <dcterms:description>Violence; sex; slavery; misogyny; </dcterms:description>
+        <dcterms:extent>444 pages</dcterms:extent> 
+        <dcterms:extent>7in x 4.5in</dcterms:extent>    
+    </rdf:Description>
+   
+    <!--Record 4-->
+    <rdf:Description rdf:about="https://www.genericsmallhslibrary.edu/lib/collection/books/18832/">
+        <dcterms:title>Sign of the Unicorn</dcterms:title>
+        <dcterms:creator rdfs:label="Zelazney, Roger" rdf:resource="https://lccn.loc.gov/n79058535"/>
+        <dcterms:date>1975</dcterms:date>
+        <dcterms:publisher rdfs:label="Avon Books" rdf:resource="https://lccn.loc.gov/n84220390" />
+        <dcterms:language rdfs:label="eng" rdf:resource="https://www.loc.gov/standards/iso639-2/"/>
+        <dcterms:subject rdfs:label="Fiction" rdf:resource="http://id.loc.gov/authorities/subjects/sh85048050" />
+        <dcterms:subject rdfs:label="Fantasy" rdf:resource="http://id.loc.gov/authorities/subjects/sh85047157" />
+        <dcterms:subject rdfs:label="Science Fiction" rdf:resource="http://id.loc.gov/authorities/subjects/sh85118629" />
+        <dcterms:identifier rdfs:label="978-0380008315" rdf:resource="https://isbndb.com/book/9780380008315" />
+        <dcterms:rights rdfs:label="COPYRIGHT ©, 1975 by Roger Zelazney." rdf:resource="http://rightsstatements.org/vocab/CNE/1.0/" />
+        <dcterms:format rdfs:label="text" rdf:resource="http://purl.org/dc/dcmitype/text" />
+        <dcterms:hasVersion>1st</dcterms:hasVersion>
+        <dcterms:audience>Adult</dcterms:audience>
+        <dcterms:description>
+            He who rules Amber rules the one true world. 
+            He who thwarts amber invites the wrath of Amber betrayed.
+            An unseen enemy of immense strength has siezed a Prince of the Blood, and now threatens the perfect kingdom by striking at the very core of its power- the secret knowledge of Shadow.
+            When Corwin summons forces to defend the throne, he finds himself challenged by royal conspirators, hideous demons, weird supernatural patterns- and the ominous Unknown, in a bizarre vision that suddenly transcends all he ever suspected about the true nature of Amber.
+        </dcterms:description>   
+        <dcterms:subject> Heroic fantasy; antihero; family issues; dimensional travel; </dcterms:subject>   
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.genericsmallhslibrary.edu/lib/internal/books/18832/">
+        <rdfs:subClassOf rdf:resource="https://www.genericsmallhslibrary.edu/lib/collection/books/18832/"/>
+        <dcterms:modified>2006-08</dcterms:modified>
+        <dcterms:isPartOf rdfs:label="Internal" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/books/" />
+        <dcterms:isPartOf rdfs:label="Phsyics for Poets" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/courseres/sci/" />
+        <dcterms:isPartOf rdfs:label="Science Dept" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/dept/sci/" />
+        <dcterms:description>Contains blasphemy and adult themes</dcterms:description>
+        <dcterms:extent>192 pages</dcterms:extent>
+        <dcterms:extent>7in x 4.5in </dcterms:extent>
+    </rdf:Description>
+    
+    <!--Record 5-->
+    <rdf:Description rdf:about="https://www.genericsmallhslibrary.edu/lib/collection/books/18833/">
+        <dcterms:title>Dinosaur Beach</dcterms:title>
+        <dcterms:creator rdfs:label="Laumer, Keith, 1925-1993" rdf:resource="https://lccn.loc.gov/n80032675"/>
+        <dcterms:date>1978</dcterms:date>
+        <dcterms:publisher rdfs:label="Daw Books" rdf:resource="https://lccn.loc.gov/n86011843" />
+        <dcterms:language rdfs:label="eng" rdf:resource="https://www.loc.gov/standards/iso639-2/"/>
+        <dcterms:subject rdfs:label="Fiction" rdf:resource="http://id.loc.gov/authorities/subjects/sh85048050" />
+        <dcterms:subject rdfs:label="Fantasy" rdf:resource="http://id.loc.gov/authorities/subjects/sh85047157" />
+        <dcterms:subject rdfs:label="Science Fiction" rdf:resource="http://id.loc.gov/authorities/subjects/sh85118629" />
+        <dcterms:identifier rdfs:label="978-0684123745" rdf:resource="https://isbndb.com/book/9780684123745" />
+        <dcterms:rights rdfs:label="COPYRIGHT ©, 1971 BY KEITH LAUMER." rdf:resource="http://rightsstatements.org/vocab/InC/1.0/" />
+        <dcterms:format rdfs:label="text" rdf:resource="http://purl.org/dc/dcmitype/text" />
+        <dcterms:hasVersion>1st</dcterms:hasVersion>
+        <dcterms:audience>Adult</dcterms:audience>
+        <dcterms:description>
+            Appearing from the remote future, Nexx Central agent Ravel is emplaced in America of 1936. His mission: to undo successive tamperings of the time stream which threaten the survival of mankind. He falls in love with a charming, simple girl, Lisa, but in the midst of his happiness is called away to Dinosaur Beach.
+            Dinosaur Beach is a Nexx Central station located millions of years in the past, in the Jurassic Age. But shortly after Ravel's arrival, the station is attacked and destroyed, and Ravel begins a terrifying oddysey through time. For the attackers were another time-tampering team from still a different future era. And Ravel himself is not only in growing danger but all the human world as we know it...
+        </dcterms:description>   
+        <dcterms:subject> Time travel; heroic fantasy; </dcterms:subject>   
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.genericsmallhslibrary.edu/lib/internal/18833/">
+        <rdfs:subClassOf rdf:resource="https://www.genericsmallhslibrary.edu/lib/collection/books/18833/"/>
+        <dcterms:modified>1999-11</dcterms:modified>
+        <dcterms:isPartOf rdfs:label="Internal" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/books/" />
+        <dcterms:isPartOf rdfs:label="Physics for Poets" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/courseres/sci/" />
+        <dcterms:isPartOf rdfs:label="Science Dept" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/dept/sci/" />
+        <dcterms:description> Time travel; heroic fantasy; lost in time; </dcterms:description>
+        <dcterms:extent>151 pages</dcterms:extent>
+        <dcterms:extent>7in x 4.5in</dcterms:extent>
+    </rdf:Description>
+    
+    <!--Record 6-->
+    <rdf:Description rdf:about="https://www.genericsmallhslibrary.edu/lib/collection/books/18834/">
+        <dcterms:title>Elric of Meniboné</dcterms:title>
+        <dcterms:creator rdfs:label="Moorcock, Michael 1939-" rdf:resource="https://lccn.loc.gov/n79151230"/>
+        <dcterms:date>1976</dcterms:date>
+        <dcterms:publisher rdfs:label="Daw Books" rdf:resource="https://lccn.loc.gov/n86011843" />
+        <dcterms:language rdfs:label="eng" rdf:resource="https://www.loc.gov/standards/iso639-2/"/>
+        <dcterms:subject rdfs:label="Fiction" rdf:resource="http://id.loc.gov/authorities/subjects/sh85048050" />
+        <dcterms:subject rdfs:label="Fantasy" rdf:resource="http://id.loc.gov/authorities/subjects/sh85047157" />
+        <dcterms:subject rdfs:label="Science Fiction" rdf:resource="http://id.loc.gov/authorities/subjects/sh85118629" />
+        <dcterms:identifier rdfs:label="978-0879977344" rdf:resource="https://isbndb.com/book/ 9780879977344" />
+        <dcterms:rights rdfs:label="COPYRIGHT ©, 1967, 1970, 1976 BY MICHAEL MOORCOCK." rdf:resource="http://rightsstatements.org/vocab/InC/1.0/" />
+        <dcterms:format rdfs:label="text" rdf:resource="http://purl.org/dc/dcmitype/text" />
+        <dcterms:hasVersion>A version of this novel, re-edited without the author's permission, was published under the title of The Dreaming City by Lancer Books in 1972. The choice of the title was also not the author's. This text follows that of the British edition published in 1972 by Hutchinson &#38; Co., Ltd.</dcterms:hasVersion>
+        <dcterms:audience>Adult</dcterms:audience>
+        <dcterms:description>For ten thousand years Melniboné ruled the world. Elric, the 428th Emperor, seemed destined to to see that era come to an end. An albino, sustained by rare drugs, it fell to him to confront the rise of the Young Kingdoms, of the monsters an sorceries which were threatening to overwhelm him and his ancient crown.</dcterms:description>
+        <dcterms:subject>Antihero, dark fantasy</dcterms:subject>   
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.genericsmallhslibrary.edu/lib/internal/books/18834/">
+        <rdfs:subClassOf rdf:resource="https://www.genericsmallhslibrary.edu/lib/collection/books/18834/"/>
+        <dcterms:modified>2006-04</dcterms:modified>
+        <dcterms:isPartOf rdfs:label="Internal" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/books/" />
+        <dcterms:isPartOf rdfs:label="Drugs in Fantasy" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/courseres/eng/" />
+        <dcterms:isPartOf rdfs:label="English Dept" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/dept/eng/" />
+        <dcterms:description>Violence, sex, immorality</dcterms:description>
+        <dcterms:extent>160 pages</dcterms:extent>
+        <dcterms:extent>7in x 4.5in</dcterms:extent>
+    </rdf:Description>
+    
+    <!--Record 7-->
+    <rdf:Description rdf:about="https://www.genericsmallhslibrary.edu/lib/collection/books/18835/">
+        <dcterms:title>The Sailor on the Seas of Fate</dcterms:title>
+        <dcterms:creator rdfs:label="Moorcock, Michael 1939-" rdf:resource="https://lccn.loc.gov/n79151230"/>
+        <dcterms:date>1976</dcterms:date>
+        <dcterms:publisher rdfs:label="Daw Books" rdf:resource="https://lccn.loc.gov/n86011843" />
+        <dcterms:language rdfs:label="eng" rdf:resource="https://www.loc.gov/standards/iso639-2/"/>
+        <dcterms:subject rdfs:label="Fiction" rdf:resource="http://id.loc.gov/authorities/subjects/sh85048050" />
+        <dcterms:subject rdfs:label="Fantasy" rdf:resource="http://id.loc.gov/authorities/subjects/sh85047157" />
+        <dcterms:subject rdfs:label="Science Fiction" rdf:resource="http://id.loc.gov/authorities/subjects/sh85118629" />
+        <dcterms:identifier rdfs:label="978-0879972707" rdf:resource="https://isbndb.com/book/9780879972707" />
+        <dcterms:rights rdfs:label="COPYRIGHT ©, 1967, 1970, 1976 BY MICHAEL MOORCOCK." rdf:resource="http://rightsstatements.org/vocab/InC/1.0/" />
+        <dcterms:format rdfs:label="text" rdf:resource="http://purl.org/dc/dcmitype/text" />
+        <dcterms:hasVersion>1st Edition</dcterms:hasVersion>
+        <dcterms:audience>Adult</dcterms:audience>
+        <dcterms:description>Elric of Melniboné, last of the emperors of a once mighty land, exiled bearer of the sword of deathpower called Stormbringer, found a ship waiting for him on a mist-wreathed alien seashore. When he boarded the mysterious vessel, he learned from its shadowy captain that he was to undertake a strange quest, side by side with other heroes from other times. For this ship sailed no earthly waters and time, for it, was flexible.</dcterms:description>
+        <dcterms:subject>Antihero, dark fantasy</dcterms:subject>   
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.genericsmallhslibrary.edu/lib/internal/books/18835/">
+        <rdfs:subClassOf rdf:resource="https://www.genericsmallhslibrary.edu/lib/collection/books/18835/"/>
+        <dcterms:modified>2006-04</dcterms:modified>
+        <dcterms:isPartOf rdfs:label="Internal" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/books/" />
+        <dcterms:isPartOf rdfs:label="Phsyics for Poets" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/courseres/sci/" />
+        <dcterms:isPartOf rdfs:label="Science Dept" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/dept/sci/" />
+        <dcterms:description>Violence, sex, immorality</dcterms:description>
+        <dcterms:extent>160 pages</dcterms:extent>
+        <dcterms:extent>7in x 4.5in</dcterms:extent>
+    </rdf:Description>
+    
+    <!--Record 8-->
+    <rdf:Description rdf:about="https://www.genericsmallhslibrary.edu/lib/collection/books/18836/">
+        <dcterms:title>The Weird of the White Wolf</dcterms:title>
+        <dcterms:creator rdfs:label="Moorcock, Michael 1939-" rdf:resource="https://lccn.loc.gov/n79151230"/>
+        <dcterms:date>1976</dcterms:date>
+        <dcterms:publisher rdfs:label="Daw Books" rdf:resource="https://lccn.loc.gov/n86011843" />
+        <dcterms:language rdfs:label="eng" rdf:resource="https://www.loc.gov/standards/iso639-2/"/>
+        <dcterms:subject rdfs:label="Fiction" rdf:resource="http://id.loc.gov/authorities/subjects/sh85048050" />
+        <dcterms:subject rdfs:label="Fantasy" rdf:resource="http://id.loc.gov/authorities/subjects/sh85047157" />
+        <dcterms:subject rdfs:label="Science Fiction" rdf:resource="http://id.loc.gov/authorities/subjects/sh85118629" />
+        <dcterms:identifier rdfs:label=" 978-0879973902" rdf:resource="https://isbndb.com/book/ 9780879973902" />
+        <dcterms:rights rdfs:label="COPYRIGHT ©, 1967, 1970, 1977 BY MICHAEL MOORCOCK." rdf:resource="http://rightsstatements.org/vocab/InC/1.0/" />
+        <dcterms:format rdfs:label="text" rdf:resource="http://purl.org/dc/dcmitype/text" />
+        <dcterms:hasVersion>Part of this book originally appeared in a volume entitled The Stealer of Souls, published in the U.S.A. by Lancer Books in 1967. This revised version contains two sections never previously published in chronological sequence but which appeared out of context in a collection entitled The Singing Citadel published in the U.S.A. by Berkley Medallion Books in 1970. This is the first time this revised edition has been published in any country.</dcterms:hasVersion>
+        <dcterms:audience>Adult</dcterms:audience>
+        <dcterms:description>Elric of Melniboné, last of the emperors of a once mighty land, exiled bearer of the sword of deathpower called Stormbringer, found a ship waiting for him on a mist-wreathed alien seashore. When he boarded the mysterious vessel, he learned from its shadowy captain that he was to undertake a strange quest, side by side with other heroes from other times. For this ship sailed no earthly waters and time, for it, was flexible.</dcterms:description>
+        <dcterms:subject>Antihero, dark fantasy</dcterms:subject>   
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.genericsmallhslibrary.edu/lib/internal/books/18836/">
+        <rdfs:subClassOf rdf:resource="https://www.genericsmallhslibrary.edu/lib/collection/books/18836/"/>
+        <dcterms:modified>2008-08</dcterms:modified>
+        <dcterms:isPartOf rdfs:label="Internal" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/books/" />
+        <dcterms:isPartOf rdfs:label="Codependence and Violence" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/courseres/eng/" />
+        <dcterms:isPartOf rdfs:label="English Dept" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/dept/eng/" />
+        <dcterms:description>Violence, sex, immorality</dcterms:description>
+        <dcterms:extent>160 pages</dcterms:extent>
+        <dcterms:extent>7in x 4.5in</dcterms:extent>
+    </rdf:Description>
+    
+    <!--Record 9-->
+    <rdf:Description rdf:about="https://www.genericsmallhslibrary.edu/lib/collection/books/18837/">
+        <dcterms:title>The Vanishing Tower</dcterms:title>
+        <dcterms:creator rdfs:label="Moorcock, Michael 1939-" rdf:resource="https://lccn.loc.gov/n79151230"/>
+        <dcterms:date>1976</dcterms:date>
+        <dcterms:publisher rdfs:label="Daw Books" rdf:resource="https://lccn.loc.gov/n86011843" />
+        <dcterms:language rdfs:label="eng" rdf:resource="https://www.loc.gov/standards/iso639-2/"/>
+        <dcterms:subject rdfs:label="Fiction" rdf:resource="http://id.loc.gov/authorities/subjects/sh85048050" />
+        <dcterms:subject rdfs:label="Fantasy" rdf:resource="http://id.loc.gov/authorities/subjects/sh85047157" />
+        <dcterms:subject rdfs:label="Science Fiction" rdf:resource="http://id.loc.gov/authorities/subjects/sh85118629" />
+        <dcterms:identifier rdfs:label="978-0879976934" rdf:resource="https://isbndb.com/book/9780879976934" />
+        <dcterms:rights rdfs:label="COPYRIGHT ©, 1970 BY MICHAEL MOORCOCK." rdf:resource="http://rightsstatements.org/vocab/InC/1.0/" />
+        <dcterms:format rdfs:label="text" rdf:resource="http://purl.org/dc/dcmitype/text" />
+        <dcterms:hasVersion>A version of this novel, re-edited without reference to the author, was published under the title of The Sleeping Sorceress by Lancer Books in 1972. The text of this edition follows that of the English edition, published by New English Library in 1970.</dcterms:hasVersion>
+        <dcterms:audience>Adult</dcterms:audience>
+        <dcterms:description>Elric of Melniboné,proud prince of ruins, last lord of a dying race, wanders the lands of the Young Kingdoms in search of the evil sorcerer Theleb K'aarna. His objectis revenge. But to achieve this he must frist brave such horrors as...
+            the Creatures of Chaos,
+            the freezing wilderness of World's Edge,
+            the gold-skinned Kelmain hordes,
+            King Urish the Seven-fingered,
+            the Burning God,
+            the Sighing Desert, and
+            the terrible stone-age men of Pio.
+            Although Elric holds within him a destiny greater than he could ever know, and controls the hellsword Stormbringer, stealer of souls, his task looks hopeless until he encounters Myshella, Empress of the Dawn, th esleeping sorceress... .</dcterms:description>
+        <dcterms:subject>Antihero, dark fantasy</dcterms:subject>   
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.genericsmallhslibrary.edu/lib/internal/books/18837/">
+        <rdfs:subClassOf rdf:resource="https://www.genericsmallhslibrary.edu/lib/collection/books/18837/"/>
+        <dcterms:modified>2008-08</dcterms:modified>
+        <dcterms:isPartOf rdfs:label="Internal" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/books/" />
+        <dcterms:isPartOf rdfs:label="Drugs in Fantasy" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/courseres/eng/" />
+        <dcterms:isPartOf rdfs:label="English Dept" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/dept/eng/" />
+        <dcterms:description>Violence, sex, immorality</dcterms:description>
+        <dcterms:extent>175 pages</dcterms:extent>
+        <dcterms:extent>7in x 4.5in</dcterms:extent>
+    </rdf:Description>
+    
+    <!--Record 10-->
+    <rdf:Description rdf:about="https://www.genericsmallhslibrary.edu/lib/collection/books/18838/">
+        <dcterms:title>The Bane of the Black Sword</dcterms:title>
+        <dcterms:creator rdfs:label="Moorcock, Michael 1939-" rdf:resource="https://lccn.loc.gov/n79151230"/>
+        <dcterms:date>1976</dcterms:date>
+        <dcterms:publisher rdfs:label="Daw Books" rdf:resource="https://lccn.loc.gov/n86011843" />
+        <dcterms:language rdfs:label="eng" rdf:resource="https://www.loc.gov/standards/iso639-2/"/>
+        <dcterms:subject rdfs:label="Fiction" rdf:resource="http://id.loc.gov/authorities/subjects/sh85048050" />
+        <dcterms:subject rdfs:label="Fantasy" rdf:resource="http://id.loc.gov/authorities/subjects/sh85047157" />
+        <dcterms:subject rdfs:label="Science Fiction" rdf:resource="http://id.loc.gov/authorities/subjects/sh85118629" />
+        <dcterms:identifier rdfs:label="978-0879973162" rdf:resource="https://isbndb.com/book/9780879973162" />
+        <dcterms:rights rdfs:label="COPYRIGHT ©, 1967, 1970, 1976 BY MICHAEL MOORCOCK." rdf:resource="http://rightsstatements.org/vocab/InC/1.0/" />
+        <dcterms:format rdfs:label="text" rdf:resource="http://purl.org/dc/dcmitype/text" />
+        <dcterms:hasVersion>Part of this book originally appeared in a volume entitled The Stealer of Souls published in the U.S. by Lancer Books in 1967. This revised version contains as section never previously published in chronological sequence but which appeared out of context in a collection The Singing Citadel published by Berkley Medallion Books in 1970. This is the first time this revised edition has been published in any country.</dcterms:hasVersion>
+        <dcterms:audience>Adult</dcterms:audience>
+        <dcterms:description>High in the wintry sky climbed the dragons as Elric urged his charges westwards. Thoughts of love, of peace, of vengeance even were lost in that reckless sweeping across the glowering skieswhich hung over that ancient Age of Young Kingdoms. Elric, proud and disdainful in his knowledge that even his deficient blood was the blood of the Sorcerer Kings of Melnibone, became deteached.
+            He had no loyalties then, no friends, and if evil possessed him, then it was a pure brilliant evil, untainted by human drivings.
+            High soared the dragons until below them was the heaving black mass, marring the landscape, the fear-driven horde of barbarians who, in their ignorance, had sought to conquer the lands beloved of Elric of Melnibone.</dcterms:description>
+        <dcterms:subject>Antihero, dark fantasy</dcterms:subject>   
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.genericsmallhslibrary.edu/lib/internal/books/18838/">
+        <rdfs:subClassOf rdf:resource="https://www.genericsmallhslibrary.edu/lib/collection/books/18838/"/>
+        <dcterms:modified>2003-01</dcterms:modified>
+        <dcterms:isPartOf rdfs:label="Internal" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/books/" />
+        <dcterms:isPartOf rdfs:label="Codependence and Violence" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/courseres/eng/" />
+        <dcterms:isPartOf rdfs:label="English Dept" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/dept/eng/" />
+        <dcterms:description>Violence, sex, immorality</dcterms:description>
+        <dcterms:extent>160 pages</dcterms:extent>
+        <dcterms:extent>7in x 4.5in</dcterms:extent>
+    </rdf:Description>
+    
+    <!--Record 11-->
+    <rdf:Description rdf:about="https://www.genericsmallhslibrary.edu/lib/collection/books/18839/">
+        <dcterms:title>Stormbringer</dcterms:title>
+        <dcterms:creator rdfs:label="Moorcock, Michael 1939-" rdf:resource="https://lccn.loc.gov/n79151230"/>
+        <dcterms:date>1977</dcterms:date>
+        <dcterms:publisher rdfs:label="Daw Books" rdf:resource="https://lccn.loc.gov/n86011843" />
+        <dcterms:language rdfs:label="eng" rdf:resource="https://www.loc.gov/standards/iso639-2/"/>
+        <dcterms:subject rdfs:label="Fiction" rdf:resource="http://id.loc.gov/authorities/subjects/sh85048050" />
+        <dcterms:subject rdfs:label="Fantasy" rdf:resource="http://id.loc.gov/authorities/subjects/sh85047157" />
+        <dcterms:subject rdfs:label="Science Fiction" rdf:resource="http://id.loc.gov/authorities/subjects/sh85118629" />
+        <dcterms:identifier rdfs:label="978-0586063101" rdf:resource="https://isbndb.com/book/9780586063101" />
+        <dcterms:rights rdfs:label="COPYRIGHT ©, 1963, 1965, 1967, 1977 BY MICHAEL MOORCOCK." rdf:resource="http://rightsstatements.org/vocab/InC/1.0/" />
+        <dcterms:format rdfs:label="text" rdf:resource="http://purl.org/dc/dcmitype/text" />
+        <dcterms:hasVersion>1st</dcterms:hasVersion>
+        <dcterms:audience>Adult</dcterms:audience>
+        <dcterms:description>After five mighty books, the fabled saga of Elric and the sword Stormbringer reaches its terrific climax in this sixth and final novel. Here, contained, is the last great strife of Elric in a world of barbaric forces, decadent powers, and champions of Doom. Here is the culmination of all adventures, the Ragnarok of Michael Moorcock's most famed epic.</dcterms:description>   
+        <dcterms:subject>Antihero, dark fantasy</dcterms:subject>   
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.genericsmallhslibrary.edu/lib/internal/books/18839/">
+        <rdfs:subClassOf rdf:resource="https://www.genericsmallhslibrary.edu/lib/collection/books/18839/"/>
+        <dcterms:modified>2001-07</dcterms:modified>
+        <dcterms:isPartOf rdfs:label="Internal" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/books/" />
+        <dcterms:isPartOf rdfs:label="Brit Lit" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/courseres/eng/" />
+        <dcterms:isPartOf rdfs:label="English Dept" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/dept/eng/" />
+        <dcterms:description>Violence, sex, immorality</dcterms:description>
+        <dcterms:extent>220 pages</dcterms:extent>
+        <dcterms:extent>7in x 4.5in</dcterms:extent>
+    </rdf:Description>
+    
+    <!--Record 12-->
+    <rdf:Description rdf:about="https://www.genericsmallhslibrary.edu/lib/collection/books/18840/">
+        <dcterms:title>A Specter is Haunting Texas</dcterms:title>
+        <dcterms:creator rdfs:label="Leiber, Fritz, 1910-1992" rdf:resource="http://id.loc.gov/authorities/names/n79054477"/>
+        <dcterms:date>1968</dcterms:date>
+        <dcterms:publisher rdfs:label="Daw Books" rdf:resource="https://lccn.loc.gov/n86011843" />
+        <dcterms:language rdfs:label="eng" rdf:resource="https://www.loc.gov/standards/iso639-2/"/>
+        <dcterms:subject rdfs:label="Fiction" rdf:resource="http://id.loc.gov/authorities/subjects/sh85048050" />
+        <dcterms:subject rdfs:label="Fantasy" rdf:resource="http://id.loc.gov/authorities/subjects/sh85047157" />
+        <dcterms:subject rdfs:label="Science Fiction" rdf:resource="http://id.loc.gov/authorities/subjects/sh85118629" />
+        <dcterms:identifier rdfs:label="978-0879973599" rdf:resource="https://isbndb.com/book/9780879973599" />
+        <dcterms:rights rdfs:label="COPYRIGHT ©, 1968 BY GALAXY PUBLISHING CORP. A DAW Book, by arrangement with Walker and Company." rdf:resource="http://rightsstatements.org/vocab/InC/1.0/" />
+        <dcterms:format rdfs:label="text" rdf:resource="http://purl.org/dc/dcmitype/text" />
+        <dcterms:hasVersion>1st</dcterms:hasVersion>
+        <dcterms:audience>Adult</dcterms:audience>
+        <dcterms:description> Scully La Cruz was a Thin- a muscless free-fall phenomenon whose home was the Sack circling the Mooon, who could only support life in Earth-gravity conditions by having himself encased in a titanium exo-skeleton. To the inhabitants of the ravaged post-war Earth, he looked spectrally outlandish.
+            To Scully, the inhabitants of Earth looked equally odd. Because the U.S.A. had disappeared in the aftermath of the atomic conflict and had been replaced by Greater Texas. And Greater Texas was dominated by Greater Texans, masterful giants created by hormone treatments, who strode lordly about amidst their dwarvish peons and slaves.
+            To these unhappy underlings, Scully appeared as a Sign, a leader for revolt. To Scully, this reverence sparked his acotr instinct sufficiently to make him decide to accept that role.
+            This is one of Fritz Lieber's most astonishing and satirical novels... a caricature of the future as lively, chilling and ultimately serious of purpose as a Jules Feiffer cartoon.           
+        </dcterms:description>   
+        <dcterms:subject> Time travel; heroic fantasy; </dcterms:subject>   
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.genericsmallhslibrary.edu/lib/internal/18840/">
+        <rdfs:subClassOf rdf:resource="https://www.genericsmallhslibrary.edu/lib/collection/books/18840/"/>
+        <dcterms:modified>1998-04</dcterms:modified>
+        <dcterms:isPartOf rdfs:label="Internal" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/books/" />
+        <dcterms:isPartOf rdfs:label="Genes for Journalists" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/courseres/sci/" />
+        <dcterms:isPartOf rdfs:label="Science Dept" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/dept/sci/" />
+        <dcterms:description> Post atomic; bio-engineering; satire; </dcterms:description>
+        <dcterms:extent>220 pages</dcterms:extent>
+        <dcterms:extent>7in x 4.5in</dcterms:extent>
+    </rdf:Description>
+    
+    <!--Record 13-->
+    <rdf:Description rdf:about="https://www.genericsmallhslibrary.edu/lib/collection/books/18841/">
+        <dcterms:title>The Jewel in the Skull</dcterms:title>
+        <dcterms:creator rdfs:label="Moorcock, Michael 1939-" rdf:resource="https://lccn.loc.gov/n79151230"/>
+        <dcterms:date>1977</dcterms:date>
+        <dcterms:publisher rdfs:label="Daw Books" rdf:resource="https://lccn.loc.gov/n86011843" />
+        <dcterms:language rdfs:label="eng" rdf:resource="https://www.loc.gov/standards/iso639-2/"/>
+        <dcterms:subject rdfs:label="Fiction" rdf:resource="http://id.loc.gov/authorities/subjects/sh85048050" />
+        <dcterms:subject rdfs:label="Fantasy" rdf:resource="http://id.loc.gov/authorities/subjects/sh85047157" />
+        <dcterms:subject rdfs:label="Science Fiction" rdf:resource="http://id.loc.gov/authorities/subjects/sh85118629" />
+        <dcterms:identifier rdfs:label="978-0879975470" rdf:resource="https://isbndb.com/book/9780879975470" />
+        <dcterms:rights rdfs:label="COPYRIGHT ©, 1967, 1977 BY MICHAEL MOORCOCK." rdf:resource="http://rightsstatements.org/vocab/InC/1.0/" />
+        <dcterms:format rdfs:label="text" rdf:resource="http://purl.org/dc/dcmitype/text" />
+        <dcterms:hasVersion>First published in the U.S.A. in 1967. Unauthorized edition published 1974. This edition, authorized and revised byt the author, 1977.</dcterms:hasVersion>
+        <dcterms:audience>Adult</dcterms:audience>
+        <dcterms:description>
+            Dorian Hawkmoon, late the Duke of Koln, fell under the power of the Runestaff, a mysterious artifact more ancient than Time itself. His destiny, shaped by a vengeful oath sworn by the maddened Baron Meladius of the Dark Empire, pitted Hawkmoon in battle against his own allies and forced him, by the Black Jewel embedded in his skull, to betray his very heritage.
+        </dcterms:description>   
+        <dcterms:subject>Eternal hero, dark fantasy</dcterms:subject>   
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.genericsmallhslibrary.edu/lib/internal/books/18841/">
+        <rdfs:subClassOf rdf:resource="https://www.genericsmallhslibrary.edu/lib/collection/books/18841/"/>
+        <dcterms:modified>1997-02</dcterms:modified>
+        <dcterms:isPartOf rdfs:label="Internal" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/books/" />
+        <dcterms:isPartOf rdfs:label="Recurring Thematics" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/courseres/eng/" />
+        <dcterms:isPartOf rdfs:label="English Dept" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/dept/eng/" />
+        <dcterms:description>Violence, Magic, Betrayal</dcterms:description>
+        <dcterms:extent>176 pages</dcterms:extent>
+        <dcterms:extent>7in x 4.5in</dcterms:extent>
+    </rdf:Description>
+    
+    <!--Record 14-->
+    <rdf:Description rdf:about="https://www.genericsmallhslibrary.edu/lib/collection/books/18842/">
+        <dcterms:title>The Mad God's Amulet</dcterms:title>
+        <dcterms:creator rdfs:label="Moorcock, Michael 1939-" rdf:resource="https://lccn.loc.gov/n79151230"/>
+        <dcterms:date>1977</dcterms:date>
+        <dcterms:publisher rdfs:label="Daw Books" rdf:resource="https://lccn.loc.gov/n86011843" />
+        <dcterms:language rdfs:label="eng" rdf:resource="https://www.loc.gov/standards/iso639-2/"/>
+        <dcterms:subject rdfs:label="Fiction" rdf:resource="http://id.loc.gov/authorities/subjects/sh85048050" />
+        <dcterms:subject rdfs:label="Fantasy" rdf:resource="http://id.loc.gov/authorities/subjects/sh85047157" />
+        <dcterms:subject rdfs:label="Science Fiction" rdf:resource="http://id.loc.gov/authorities/subjects/sh85118629" />
+        <dcterms:identifier rdfs:label=" 978-0886770440" rdf:resource="https://isbndb.com/book/9780886770440" />
+        <dcterms:rights rdfs:label="COPYRIGHT ©, 1968, 1977 BY MICHAEL MOORCOCK." rdf:resource="http://rightsstatements.org/vocab/InC/1.0/" />
+        <dcterms:format rdfs:label="text" rdf:resource="http://purl.org/dc/dcmitype/text" />
+        <dcterms:hasVersion>First published in the U.S.A. 1968. This edition, revised by the author, 1977.</dcterms:hasVersion>
+        <dcterms:audience>Adult</dcterms:audience>
+        <dcterms:description>
+            Having braved incredible dangers in his battle against the science-sorcery of the Dark Empire, Dorian Hawkmoon was returning to his homeland. But worse fate awaited him...
+            His betrothed Yisselda had been abducted by the Mad God, an evil sorcerer who had usurped the Red Amulet of the Runestaff. The amulet gave the power of the Runestaff itself to its posessor, and now that mighty force was in the perverted hands of the Mad God.
+            Even as the destructive shadow of the Dark Empire spread across the world, Hawkmoon knew that only he could rescue Yisselda- and the Red Amulet- from the Mad God.
+            But had a mortal man the power to overcome a God?
+        </dcterms:description>   
+        <dcterms:subject>Eternal hero, dark fantasy</dcterms:subject>   
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.genericsmallhslibrary.edu/lib/internal/books/18842/">
+        <rdfs:subClassOf rdf:resource="https://www.genericsmallhslibrary.edu/lib/collection/books/18842/"/>
+        <dcterms:modified>1997-02</dcterms:modified>
+        <dcterms:isPartOf rdfs:label="Internal" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/books/" />
+        <dcterms:isPartOf rdfs:label="Recurring Thematics" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/courseres/eng/" />
+        <dcterms:isPartOf rdfs:label="English Dept" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/dept/eng/" />
+        <dcterms:description>Violence, Magic, Betrayal</dcterms:description>
+        <dcterms:extent>160 pages</dcterms:extent>
+        <dcterms:extent>7in x 4.5in</dcterms:extent>
+    </rdf:Description>
+    
+    <!--Record 15-->
+    <rdf:Description rdf:about="https://www.genericsmallhslibrary.edu/lib/collection/books/18844/">
+        <dcterms:title>The Runestaff</dcterms:title>
+        <dcterms:creator rdfs:label="Moorcock, Michael 1939-" rdf:resource="https://lccn.loc.gov/n79151230"/>
+        <dcterms:date>1977</dcterms:date>
+        <dcterms:publisher rdfs:label="Daw Books" rdf:resource="https://lccn.loc.gov/n86011843" />
+        <dcterms:language rdfs:label="eng" rdf:resource="https://www.loc.gov/standards/iso639-2/"/>
+        <dcterms:subject rdfs:label="Fiction" rdf:resource="http://id.loc.gov/authorities/subjects/sh85048050" />
+        <dcterms:subject rdfs:label="Fantasy" rdf:resource="http://id.loc.gov/authorities/subjects/sh85047157" />
+        <dcterms:subject rdfs:label="Science Fiction" rdf:resource="http://id.loc.gov/authorities/subjects/sh85118629" />
+        <dcterms:identifier rdfs:label="978-0879974220" rdf:resource="https://isbndb.com/book/9780879974220" />
+        <dcterms:rights rdfs:label="COPYRIGHT ©, 1968, 1977 BY MICHAEL MOORCOCK." rdf:resource="http://rightsstatements.org/vocab/InC/1.0/" />
+        <dcterms:format rdfs:label="text" rdf:resource="http://purl.org/dc/dcmitype/text" />
+        <dcterms:hasVersion>First published in the U.S.A. 1969. This edition, revised by the author, 1977.</dcterms:hasVersion>
+        <dcterms:audience>Adult</dcterms:audience>
+        <dcterms:description>
+            &quot;As it is written: &apos;Those who swear by the Runestaff must then benefit or suffer the consequences of the fixed pattern of destiny that they set in motion&apos;.
+            &quot;And Baron Meliadus of Kroiden had sworn such an oath, had sworn vengeance against all of Castle Brass, had sworn that Yisselda, Count Brass's daughter, would be his. On that day, many months earlier, he had fixed the pattern of fate; a pattern that had involved him in strange destructive schemes, that had involved Dorian Hawkmoon in wild and uncanny adventures in distant places, and that was now nearing its terrible resolution&quot;.
+            - from The High History of the Ruenestaff
+        </dcterms:description>   
+        <dcterms:subject>Eternal hero, dark fantasy</dcterms:subject>   
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.genericsmallhslibrary.edu/lib/internal/books/18844/">
+        <rdfs:subClassOf rdf:resource="https://www.genericsmallhslibrary.edu/lib/collection/books/18844/"/>
+        <dcterms:modified>2014-05</dcterms:modified>
+        <dcterms:isPartOf rdfs:label="Internal" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/books/" />
+        <dcterms:isPartOf rdfs:label="Recurring Thematics" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/courseres/eng/" />
+        <dcterms:isPartOf rdfs:label="English Dept" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/dept/eng/" />
+        <dcterms:description>Violence, Magic, Betrayal</dcterms:description>
+        <dcterms:extent>158 pages</dcterms:extent>
+        <dcterms:extent>7in x 4.5in</dcterms:extent>
+    </rdf:Description>
+    
+    <!--Record 16-->
+    <rdf:Description rdf:about="https://www.genericsmallhslibrary.edu/lib/collection/books/18844/">
+        <dcterms:title>The Knight of the Swords</dcterms:title>
+        <dcterms:creator rdfs:label="Moorcock, Michael 1939-" rdf:resource="https://lccn.loc.gov/n79151230"/>
+        <dcterms:date>1971</dcterms:date>
+        <dcterms:publisher rdfs:label="Berkley Publishing Corporation" rdf:resource="http://id.loc.gov/authorities/names/n95076583" />
+        <dcterms:language rdfs:label="eng" rdf:resource="https://www.loc.gov/standards/iso639-2/"/>
+        <dcterms:subject rdfs:label="Fiction" rdf:resource="http://id.loc.gov/authorities/subjects/sh85048050" />
+        <dcterms:subject rdfs:label="Fantasy" rdf:resource="http://id.loc.gov/authorities/subjects/sh85047157" />
+        <dcterms:subject rdfs:label="Science Fiction" rdf:resource="http://id.loc.gov/authorities/subjects/sh85118629" />
+        <dcterms:identifier rdfs:label="978-0425019719" rdf:resource="https://isbndb.com/book/9780425019719" />
+        <dcterms:rights rdfs:label="Copyright ©, 1971 BY Michael Moorcock." rdf:resource="http://rightsstatements.org/vocab/InC/1.0/" />
+        <dcterms:format rdfs:label="text" rdf:resource="http://purl.org/dc/dcmitype/text" />
+        <dcterms:hasVersion>BERKLEY MEDALLION EDITION, JUNE, 1971</dcterms:hasVersion>
+        <dcterms:audience>Adult</dcterms:audience>
+        <dcterms:description>
+            There were Gods abroad in those days. It was their whim to wipe clean the slate of history, to destroy the old races, the Vadhagh, the Nhadragh, the remnants of still more ancient peoples. Mankind, the contemptible Mabden, was their intstrument, washcloth to the Gods. But the Gods themselves fell out, and Chaos gained the advantage over law. The stage was set for heroes.
+            One such was the Vadhagh Prince Corum. Driven mad for revenge by the callous slaughter of his family and race, and by his own grotesque mutilation at the hands of the Mabden, he agreed to accept from the treacherous sorcerer Shool the Eye of Rhynn and the Hand of Kwll in exchange for a lien on his soul. Thus armed he set out upon a personal crusade against the Sword Rulers, Lords of Chaos, pupetmasters to Man. And first of these was the loathsome Arioch, Knight of the Swords, master of five of the fifteen planes of reality. From Arioch, Corum required his heart.
+        </dcterms:description>   
+        <dcterms:subject>Eternal hero, dark fantasy</dcterms:subject>   
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.genericsmallhslibrary.edu/lib/internal/books/18844/">
+        <rdfs:subClassOf rdf:resource="https://www.genericsmallhslibrary.edu/lib/collection/books/18844/"/>
+        <dcterms:modified>2017-10</dcterms:modified>
+        <dcterms:isPartOf rdfs:label="Internal" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/books/" />
+        <dcterms:isPartOf rdfs:label="Mutilation and Realms Unseen" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/courseres/eng/" />
+        <dcterms:isPartOf rdfs:label="English Dept" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/dept/eng/" />
+        <dcterms:description>Violence, Magic, Betrayal, Planar Summoning</dcterms:description>
+        <dcterms:extent>176 pages</dcterms:extent>
+        <dcterms:extent>7in x 4.5in</dcterms:extent>
+    </rdf:Description>
+    
+    <!--Record 17-->
+    <rdf:Description rdf:about="https://www.genericsmallhslibrary.edu/lib/collection/books/18845/">
+        <dcterms:title>The Queen of the Swords</dcterms:title>
+        <dcterms:creator rdfs:label="Moorcock, Michael 1939-" rdf:resource="https://lccn.loc.gov/n79151230"/>
+        <dcterms:date>1971</dcterms:date>
+        <dcterms:publisher rdfs:label="Berkley Publishing Corporation" rdf:resource="http://id.loc.gov/authorities/names/n95076583" />
+        <dcterms:language rdfs:label="eng" rdf:resource="https://www.loc.gov/standards/iso639-2/"/>
+        <dcterms:subject rdfs:label="Fiction" rdf:resource="http://id.loc.gov/authorities/subjects/sh85048050" />
+        <dcterms:subject rdfs:label="Fantasy" rdf:resource="http://id.loc.gov/authorities/subjects/sh85047157" />
+        <dcterms:subject rdfs:label="Science Fiction" rdf:resource="http://id.loc.gov/authorities/subjects/sh85118629" />
+        <dcterms:identifier rdfs:label="978-0425019993" rdf:resource="https://isbndb.com/book/9780425019993" />
+        <dcterms:rights rdfs:label="Copyright ©, 1971 BY Michael Moorcock." rdf:resource="http://rightsstatements.org/vocab/InC/1.0/" />
+        <dcterms:format rdfs:label="text" rdf:resource="http://purl.org/dc/dcmitype/text" />
+        <dcterms:hasVersion>BERKLEY MEDALLION EDITION, AUGUST, 1971</dcterms:hasVersion>
+        <dcterms:audience>Adult</dcterms:audience>
+        <dcterms:description>
+            The cosmic balance was disturbed- and the enmity of Xiombarg, dread Queen of the Swords, was turned upon the Vadhagh Prince Corum. For Corum, lasof his ancient race to occupy the lowest of the fifteen planes of reality, had slain Lord Arioch, Knight of the Swords, and brother to Xiombarg. With the help of the enigmaticgifts of the sorcerer Shool- the Hand of Kwll andEye of Rhynn- Corum had accomplished the first of his hero's tasks, and the whole realm of Chaos was cast in to disorder.
+            And so it was that Mankind, the contemptible Mabden, were once more taken in hand by the Sword Rulers. Beneath the fell and bloody banners of the Dog and the Bear, the Mabden marched again an all that was gracious or beautiful on Earth stood in peril. And so Corum, after the briefest of rests, had once again set out upon his fateful odyssey. With the lovely Margravine Rhalina, the faithful Jhary-a-Conel, companion to heroes,  and the winged cat Whiskers, Corum ventured into the realm of Xiombarg, and for a time was lost to mortal men.
+        </dcterms:description>   
+        <dcterms:subject>Eternal hero, dark fantasy</dcterms:subject>   
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.genericsmallhslibrary.edu/lib/internal/books/18845/">
+        <rdfs:subClassOf rdf:resource="https://www.genericsmallhslibrary.edu/lib/collection/books/18845/"/>
+        <dcterms:modified>2001-04</dcterms:modified>
+        <dcterms:isPartOf rdfs:label="Internal" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/books/" />
+        <dcterms:isPartOf rdfs:label="Mutilation and Realms Unseen" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/courseres/eng/" />
+        <dcterms:isPartOf rdfs:label="English Dept" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/dept/eng/" />
+        <dcterms:description>Violence, Magic, Betrayal, Planar Summoning</dcterms:description>
+        <dcterms:extent>160 pages</dcterms:extent>
+        <dcterms:extent>7in x 4.5in</dcterms:extent>
+    </rdf:Description>
+    <!--Record 18-->
+    <rdf:Description rdf:about="https://www.genericsmallhslibrary.edu/lib/collection/books/18847/">
+        <dcterms:title>The Bull and the Spear</dcterms:title>
+        <dcterms:creator rdfs:label="Moorcock, Michael 1939-" rdf:resource="https://lccn.loc.gov/n79151230"/>
+        <dcterms:date>1974</dcterms:date>
+        <dcterms:publisher rdfs:label="Berkley Publishing Corporation" rdf:resource="http://id.loc.gov/authorities/names/n95076583" />
+        <dcterms:language rdfs:label="eng" rdf:resource="https://www.loc.gov/standards/iso639-2/"/>
+        <dcterms:subject rdfs:label="Fiction" rdf:resource="http://id.loc.gov/authorities/subjects/sh85048050" />
+        <dcterms:subject rdfs:label="Fantasy" rdf:resource="http://id.loc.gov/authorities/subjects/sh85047157" />
+        <dcterms:subject rdfs:label="Science Fiction" rdf:resource="http://id.loc.gov/authorities/subjects/sh85118629" />
+        <dcterms:identifier rdfs:label="978-0425025086" rdf:resource="https://isbndb.com/book/9780425025086" />
+        <dcterms:rights rdfs:label="Copyright ©, 1973 BY Michael Moorcock." rdf:resource="http://rightsstatements.org/vocab/InC/1.0/" />
+        <dcterms:format rdfs:label="text" rdf:resource="http://purl.org/dc/dcmitype/text" />
+        <dcterms:hasVersion>BERKLEY MEDALLION EDITION, FEBRUARY, 1974</dcterms:hasVersion>
+        <dcterms:audience>Adult</dcterms:audience>
+        <dcterms:description>
+            Corum Jhaelen Irsei, hero of the legendary battle with the Sword Rulers. In an age before time began when the old Gods were abroad in the Earth, Corum of the Scarrlet Robe defeated the agents of chaos and cruelty and made history possible.
+            Now a new age requires a hero. There are new lords who would be gods- Odin and Thor and Freya and Loki. And there are the descendants of Corum's Vadagh people, now called Elf-folk. There is a portent- A great black bull sometimes seen on the horizon. The bull must be ridden by the one who possesses the Spear of Llaw Ereint. And the one who will come to possess the spear will be one who has a silver hand- it is the hand of Corum.
+        </dcterms:description>   
+        <dcterms:subject>Eternal hero, dark fantasy</dcterms:subject>   
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.genericsmallhslibrary.edu/lib/internal/books/18847/">
+        <rdfs:subClassOf rdf:resource="https://www.genericsmallhslibrary.edu/lib/collection/books/18847/"/>
+        <dcterms:modified>2016-08</dcterms:modified>
+        <dcterms:isPartOf rdfs:label="Internal" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/books/" />
+        <dcterms:isPartOf rdfs:label="Mutilation and Realms Unseen" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/courseres/eng/" />
+        <dcterms:isPartOf rdfs:label="English Dept" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/dept/eng/" />
+        <dcterms:description>Violence, Magic, Betrayal, Planar Summoning</dcterms:description>
+        <dcterms:extent>160 pages</dcterms:extent>
+        <dcterms:extent>7in x 4.5in</dcterms:extent>
+    </rdf:Description>
+    
+    <!--Record 19-->    
+    <rdf:Description rdf:about="https://www.genericsmallhslibrary.edu/lib/collection/books/18848/">
+        <dcterms:title>The Oak and the Ram</dcterms:title>
+        <dcterms:creator rdfs:label="Moorcock, Michael 1939-" rdf:resource="https://lccn.loc.gov/n79151230"/>
+        <dcterms:date>1974</dcterms:date>
+        <dcterms:publisher rdfs:label="Berkley Publishing Corporation" rdf:resource="http://id.loc.gov/authorities/names/n95076583" />
+        <dcterms:language rdfs:label="eng" rdf:resource="https://www.loc.gov/standards/iso639-2/"/>
+        <dcterms:subject rdfs:label="Fiction" rdf:resource="http://id.loc.gov/authorities/subjects/sh85048050" />
+        <dcterms:subject rdfs:label="Fantasy" rdf:resource="http://id.loc.gov/authorities/subjects/sh85047157" />
+        <dcterms:subject rdfs:label="Science Fiction" rdf:resource="http://id.loc.gov/authorities/subjects/sh85118629" />
+        <dcterms:identifier rdfs:label="978-0425025345" rdf:resource="https://isbndb.com/book/9780425025345" />
+        <dcterms:rights rdfs:label="Copyright ©, 1973 BY Michael Moorcock." rdf:resource="http://rightsstatements.org/vocab/InC/1.0/" />
+        <dcterms:format rdfs:label="text" rdf:resource="http://purl.org/dc/dcmitype/text" />
+        <dcterms:hasVersion>BERKLEY MEDALLION EDITION, MARCH, 1974</dcterms:hasVersion>
+        <dcterms:audience>Adult</dcterms:audience>
+        <dcterms:description>
+            The Great Tasks of Corum. With the Spear of Llaw Ereint in his silver hand, Corum of the Scarlet Robe must penetrate the forests of The west, the oak forests, to seek allies among the remnants of his Vadagh Folk. But before they may aid him he mst bring them the Ram of Caer Gwydion, for they are powerless without it.
+            If the sorcerers and self-styled gods who would thwart him can be overcome; if a mysterious queen can be released from ages-old captivity; if sorcery beyond Corum's understanding can be accomplished- then the Vadagh will be restored to power. The Cold Folk meanwhile gather their strength for the battle for sovereignty in this world...
+        </dcterms:description>   
+        <dcterms:subject>Eternal hero, dark fantasy</dcterms:subject>   
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.genericsmallhslibrary.edu/lib/internal/books/18848/">
+        <rdfs:subClassOf rdf:resource="https://www.genericsmallhslibrary.edu/lib/collection/books/18848/"/>
+        <dcterms:modified>2019-06</dcterms:modified>
+        <dcterms:isPartOf rdfs:label="Internal" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/books/" />
+        <dcterms:isPartOf rdfs:label="Mutilation and Realms Unseen" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/courseres/eng/" />
+        <dcterms:isPartOf rdfs:label="English Dept" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/dept/eng/" />
+        <dcterms:description>Violence, Magic, Betrayal, Planar Summoning</dcterms:description>
+        <dcterms:extent>160 pages</dcterms:extent>
+        <dcterms:extent>7in x 4.5in</dcterms:extent>
+    </rdf:Description>
+    
+    <!--Record 20-->
+    <rdf:Description rdf:about="https://www.genericsmallhslibrary.edu/lib/collection/books/18849/">
+        <dcterms:title>The Sword and the Stallion</dcterms:title>
+        <dcterms:creator rdfs:label="Moorcock, Michael 1939-" rdf:resource="https://lccn.loc.gov/n79151230"/>
+        <dcterms:date>1974</dcterms:date>
+        <dcterms:publisher rdfs:label="Berkley Publishing Corporation" rdf:resource="http://id.loc.gov/authorities/names/n95076583" />
+        <dcterms:language rdfs:label="eng" rdf:resource="https://www.loc.gov/standards/iso639-2/"/>
+        <dcterms:subject rdfs:label="Fiction" rdf:resource="http://id.loc.gov/authorities/subjects/sh85048050" />
+        <dcterms:subject rdfs:label="Fantasy" rdf:resource="http://id.loc.gov/authorities/subjects/sh85047157" />
+        <dcterms:subject rdfs:label="Science Fiction" rdf:resource="http://id.loc.gov/authorities/subjects/sh85118629" />
+        <dcterms:identifier rdfs:label="978-0425025482" rdf:resource="https://isbndb.com/book/9780425025482" />
+        <dcterms:rights rdfs:label="Copyright ©, 1974 BY Michael Moorcock." rdf:resource="http://rightsstatements.org/vocab/InC/1.0/" />
+        <dcterms:format rdfs:label="text" rdf:resource="http://purl.org/dc/dcmitype/text" />
+        <dcterms:hasVersion>BERKLEY MEDALLION EDITION, APRIL, 1974</dcterms:hasVersion>
+        <dcterms:audience>Adult</dcterms:audience>
+        <dcterms:description>
+            The Great Confrontation. Corum Jhaelen Irsei, Prince of the Scarlet Robe, legendary hero of the battle with The Swprd Rulers, has reached the climactic stage of the new strugglw with Chaos. The great black bull tamed, the ram of Caer Gwydion slaughtered, the spear of Llaw Ereint in his silver hand, Corum must face the Cold Folk in the battle that will yet again beat back the forces of chaos- or deliver the world to evil unending.
+        </dcterms:description>   
+        <dcterms:subject>Eternal hero, dark fantasy</dcterms:subject>   
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.genericsmallhslibrary.edu/lib/internal/books/18849/">
+        <rdfs:subClassOf rdf:resource="https://www.genericsmallhslibrary.edu/lib/collection/books/18849/"/>
+        <dcterms:modified>2021-05</dcterms:modified>
+        <dcterms:isPartOf rdfs:label="Internal" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/books/" />
+        <dcterms:isPartOf rdfs:label="Mutilation and Realms Unseen" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/courseres/eng/" />
+        <dcterms:isPartOf rdfs:label="English Dept" rdf:resource="https://www.genericsmallhslibrary.edu/lib/internal/dept/eng/" />
+        <dcterms:description>Violence, Magic, Betrayal, Planar Summoning</dcterms:description>
+        <dcterms:extent>160 pages</dcterms:extent>
+        <dcterms:extent>7in x 4.5in</dcterms:extent>
+    </rdf:Description>
+</rdf:RDF>
